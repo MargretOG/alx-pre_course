@@ -1,3 +1,3 @@
-Something is here
-my first read me file
+Something is here,
+my first readme file
 
